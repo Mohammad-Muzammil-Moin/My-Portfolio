@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/" component={MyPortfolio} />
+        <Route exact path="/My-Portfolio" component={MyPortfolio} />
         <Route exact path="/control" component={Dashboard} />
         {/* <Redirect component={MyPortfolio} /> */}
       </Switch>
