@@ -1,0 +1,32 @@
+.cardContainer {
+  border: 1px solid #03a9f4;
+  padding: 30px;
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+}
+.bg_for_buyToLive {
+  background-image: url();
+}
+.Card_heading {
+  font-size: 25px;
+  text-align: center;
+  color: gray;
+}
+.cards {
+  display: flex;
+  width: 100%;
+  /* max-width: 1000px; */
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+}
+.card_row {
+  width: 100%;
+  margin: 20px;
+  max-width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

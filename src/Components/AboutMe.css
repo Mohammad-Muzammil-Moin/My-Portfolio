@@ -1,0 +1,132 @@
+.About_me {
+  margin-top: 30px;
+  max-width: 300px;
+  width: 100%;
+  max-height: 400px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+.About_me img {
+  border-radius: 50%;
+  border: 5px solid;
+}
+.icon {
+  text-decoration: none;
+  color: #03a9f4;
+}
+.my_Name {
+  font-size: 25px;
+}
+.profession_name {
+  font-weight: lighter;
+}
+.contant {
+  width: 100%;
+  height: auto;
+  /* padding: 10px; */
+  /* margin-top: 70px; */
+}
+.top_sect {
+  display: flex;
+  height: 580px;
+  width: 100%;
+  /* background: #000; */
+  background: linear-gradient(black, rgb(49, 48, 48), black);
+
+  border-radius: 20px;
+  padding-left: 20px;
+  margin-bottom: 120px;
+  /* border: 1px solid gray; */
+
+  justify-content: space-around;
+  align-items: center;
+}
+
+.top_sect img {
+  border-radius: 50%;
+  display: none;
+  margin-right: 50px;
+}
+.right_of_top {
+  display: flex;
+  padding-top: 20px;
+  margin: 20px;
+  color: rgb(172, 167, 167);
+  padding-left: 20px;
+  justify-content: space-around;
+  flex-direction: column;
+  width: 80%;
+  height: 300px;
+}
+.right_of_top button {
+  color: gray;
+  border: 1px solid gray;
+  background: none;
+  width: 130px;
+  font-size: 15px;
+  transition: all 0.3s ease, border 0.5s ease;
+  border-radius: 10px;
+}
+.right_of_top button:hover {
+  border-color: darkgray;
+  color: black;
+  background: linear-gradient(#03a9f4, black);
+}
+.right_of_top button:focus {
+  outline: none;
+  border: 1px solid rgb(25, 119, 207);
+}
+.haeding-sk {
+  margin-left: 10px;
+  display: block;
+  font-size: 25px;
+  color: rgb(172, 167, 167);
+  font-weight: lighter;
+  margin-bottom: 1px;
+  /* text-decoration: underline blue; */
+}
+span {
+  color: #03a9f4;
+}
+.about_Skill {
+  display: flex;
+  padding: 30px;
+  margin-bottom: 150px;
+  padding-top: 35px;
+  align-items: center;
+  justify-content: space-between;
+}
+.about_Skill h1 {
+  margin: 20px 0px 20px 0px;
+  font-weight: lighter;
+  color: rgb(172, 167, 167);
+}
+.skill_description {
+  padding: 10px;
+  color: rgb(172, 167, 167);
+}
+
+@media only screen and (max-width: 1000px) {
+  .About_me {
+    margin-top: 30px;
+    max-width: 300px;
+    width: 100%;
+    max-height: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    display: none;
+    align-items: center;
+  }
+  .top_sect img {
+    display: block;
+  }
+  .my_contacts {
+    display: block;
+  }
+  .top_sect {
+    padding-left: 0px;
+  }
+}
