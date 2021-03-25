@@ -4,15 +4,7 @@ import "./Education.css";
 function SkillsChart(props) {
   return (
     <>
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          width: "100%",
-          height: "25px",
-          flexDirection: "column",
-        }}
-      >
+      <div className="chart_container">
         <div className="chart">
           <h2>{props.heading}</h2>
           <span

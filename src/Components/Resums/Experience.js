@@ -35,7 +35,7 @@ function Experience() {
           />
 
           <SkillsChart
-            heading="Dealing with clients"
+            heading="Dealing"
             percentage="98%"
             div={
               <>

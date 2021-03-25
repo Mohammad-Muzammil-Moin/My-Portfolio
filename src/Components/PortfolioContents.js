@@ -10,7 +10,7 @@ function PortfolioContents() {
   return (
     <div id="about_me" className="contant">
       <div className="top_sect">
-        <img src={My_image} alt="Person_image" width="190" height="200" />
+        <img src={My_image} alt="Person_image" className="image" />
         <div className="right_of_top">
           <h4>
             WEb <span>Developer</span>
