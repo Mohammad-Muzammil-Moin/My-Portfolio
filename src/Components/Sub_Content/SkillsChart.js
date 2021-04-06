@@ -1,6 +1,6 @@
 import { PortraitSharp } from "@material-ui/icons";
 import React from "react";
-import "./Education.css";
+// import "./Education.css";
 function SkillsChart(props) {
   return (
     <>
@@ -17,11 +17,6 @@ function SkillsChart(props) {
         </div>
         <div>{props.div}</div>
       </div>
-      {/* <div className="chart_container">
-        <div>
-          
-        </div>
-      </div> */}
     </>
   );
 }

@@ -1,4 +1,4 @@
-import "../AboutMe.css";
+// import "../AboutMe.css";
 import React from "react";
 import "./Education.css";
 function Education(props) {

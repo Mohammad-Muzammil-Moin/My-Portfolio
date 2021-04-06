@@ -1,24 +1,11 @@
-import React from "react";
-import {
-  BrowserRouter as Router,
-  Redirect,
-  Route,
-  Switch,
-  Link,
-} from "react-router-dom";
-import Dashboard from "./Components/Dashboard";
 import "./App.css";
-import MyPortfolio from "./MyPortfolio";
-
+import React from "react";
+import Main_Content from "./Components/Main_Content/Main_Content";
 function App() {
   return (
-    <Router>
-      <Switch>
-        <Route component={MyPortfolio} />
-        {/* <Route exact path="/control" component={Dashboard} /> */}
-        {/* <Redirect component={MyPortfolio} /> */}
-      </Switch>
-    </Router>
+    <>
+      <Main_Content />
+    </>
   );
 }
 

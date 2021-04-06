@@ -1,0 +1,30 @@
+.about_Skill {
+  padding: 14px 10px 14px 42px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.about_Skill p {
+  color: gray;
+  width: 100%;
+  max-width: 300px;
+}
+@media only screen and (max-width: 600px) {
+  .about_Skill {
+    padding: 0px;
+    display: block;
+  }
+  .about_Skill h1 {
+    color: gray;
+    font-style: italic;
+  }
+  .about_Skill p {
+    /* background: gray; */
+    /* color: black; */
+    border-radius: 5px;
+    padding: 10px 10px;
+
+    font-size: 20px;
+  }
+}

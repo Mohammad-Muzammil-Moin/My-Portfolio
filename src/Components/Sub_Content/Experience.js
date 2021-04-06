@@ -1,26 +1,25 @@
 import React from "react";
 import Education from "./Education";
 import SkillsChart from "./SkillsChart";
+import "./Education.css";
 function Experience() {
   return (
     <>
       <div className="resume">
-        <div className="">
-          {/* <Education />*/}
-          <Education
-            year_1="2020"
-            year_2="2010"
-            para_1="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
+        <Education
+          year_1="2020"
+          year_2="2010"
+          para_1="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
             aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in,
             lobortis ante."
-            para_2="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
+          para_2="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
             aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in,
             lobortis ante."
-            heading_1="Frontend "
-            span="Development"
-            heading_2="Business "
-          />
-        </div>
+          heading_1="Frontend "
+          span="Development"
+          heading_2="Business "
+        />
+
         <div className="height">
           <SkillsChart
             heading="Expertise"
