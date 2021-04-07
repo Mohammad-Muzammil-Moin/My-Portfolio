@@ -25,96 +25,98 @@ function Resums() {
           span="Development"
           heading_2="Business "
         />
-      </div>
-      <div className="height">
-        <SkillsChart
-          heading="HTML"
-          percentage="99%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_HTML">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="CSS"
-          percentage="95%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_CSS">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="Tailwind CSS"
-          percentage="85%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_Tailwind_CSS">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="Material UI"
-          percentage="75%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_Material_UI">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="Java Script"
-          percentage="78%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_Java_Script">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="React Js"
-          percentage="90%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_expertise">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="Responsive UI"
-          percentage="99%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_Responsive_UI">.</div>
-              </div>
-            </>
-          }
-        />
-        <SkillsChart
-          heading="Api Integration"
-          percentage="65%"
-          div={
-            <>
-              <div className="skill_border">
-                <div className="skill_in_percent range_Api_Integration">.</div>
-              </div>
-            </>
-          }
-        />
+        <div className="height height-range">
+          <SkillsChart
+            heading="HTML"
+            percentage="99%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_HTML">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="CSS"
+            percentage="95%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_CSS">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="Tailwind CSS"
+            percentage="85%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_Tailwind_CSS">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="Material UI"
+            percentage="75%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_Material_UI">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="Java Script"
+            percentage="78%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_Java_Script">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="React Js"
+            percentage="90%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_expertise">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="Responsive UI"
+            percentage="99%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_Responsive_UI">.</div>
+                </div>
+              </>
+            }
+          />
+          <SkillsChart
+            heading="Api Integration"
+            percentage="65%"
+            div={
+              <>
+                <div className="skill_border">
+                  <div className="skill_in_percent range_Api_Integration">
+                    .
+                  </div>
+                </div>
+              </>
+            }
+          />
+        </div>
       </div>
     </div>
   );

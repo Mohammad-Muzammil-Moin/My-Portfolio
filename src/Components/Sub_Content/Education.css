@@ -77,7 +77,7 @@
 .resume {
   justify-content: space-evenly;
   display: flex;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
   width: 100%;
   /* padding: 10px; */
 }
@@ -108,20 +108,22 @@
 }
 .height {
   height: 285px;
-
-  width: 40%;
+  width: 300px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
 }
-.skill_range {
+.height-range {
+  height: 70vh;
+}
+/* .skill_range {
   width: 300px;
   display: flex;
   background: #fff;
   height: 400px;
   justify-content: space-between;
   flex-direction: column;
-}
+} */
 .chart_container {
   display: flex;
   justify-content: space-between;
@@ -140,23 +142,23 @@
 }
 .range_HTML {
   width: 100%;
-  max-width: 99%;
+  max-width: 350px;
 }
 .range_CSS {
   width: 100%;
-  max-width: 95%;
+  max-width: 340px;
 }
 .range_Tailwind_CSS {
   width: 100%;
-  max-width: 85%;
+  max-width: 315px;
 }
 .range_Material_UI {
   width: 100%;
-  max-width: 75%;
+  max-width: 270px;
 }
 .range_Java_Script {
   width: 100%;
-  max-width: 75%;
+  max-width: 280px;
 }
 .range_Responsive_UI {
   width: 100%;

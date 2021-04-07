@@ -12,7 +12,9 @@ function Sub_Content() {
       >
         <About_me />
         <My_expertise />
-        <Resums />
+        <div>
+          <Resums />
+        </div>
       </div>
     </>
   );
