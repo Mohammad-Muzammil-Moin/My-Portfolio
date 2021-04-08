@@ -1,12 +1,14 @@
 .main_container_of_languages {
   width: 95%;
   /* max-width: 800px; */
-  transform: scale(1.1);
-  height: 80vh;
+  transform: scale(0.9);
+  height: 47vh;
+  margin-bottom: 85px;
   display: flex;
   /* background: #fff; */
   justify-content: center;
   align-items: center;
+  background: transparent;
 }
 .Languages_container {
   width: 300px;
@@ -20,13 +22,13 @@
 }
 
 .center_circle {
-  background: #000;
+  background: #fff;
   width: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  background: skyblue;
+  background: #03a9f4;
   height: 100px;
 }
 
@@ -36,6 +38,7 @@
 .transparent_circle {
   background-color: transparent;
   box-shadow: inset 1px 1px 40px rgb(32, 31, 31);
+  text-align: center;
 }
 .Material-ui,
 .CSS,
@@ -90,40 +93,66 @@
 .for_React_js,
 .for_Responsive_UI,
 .for_TailwindCss {
-  /* border-radius: 50%; */
+  box-shadow: inset 1px 1px 1px #03a9f4;
+  color: gray;
+  text-align: center;
+  font-size: 19px;
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: circle_animaion linear 15s infinite alternate;
   /* border-radius: 50%; */
   background: black;
-  height: 100px;
+  height: 105px;
   position: relative;
+  transform: rotate(0deg);
+  width: 100%;
 
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: linear-gradient(black, rgb(49, 48, 48), black);
+  height: 105px;
+  position: relative;
+  transform: rotate(320deg);
+  width: 100%; */
+}
+.main_in_language {
+  transform: scale(0.8);
+}
+.language_in_itnro {
+  border: none;
+}
+.language_in_itnro .center_circle {
+  background-color: transparent;
+}
+.main_in_language .center_circle .f_Material-UI,
+.f_HTML,
+.f_CSS,
+.f_JavaScript,
+.f_ES6,
+.f_React_js,
+.f_Responsive_UI,
+.f_TailwindCss {
+  box-shadow: inset 1px 1px 1px gray;
+  color: gray;
+  text-align: center;
+  font-size: 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 105px;
+  position: relative;
+  transform: rotate(0deg);
   width: 100%;
 }
-
 @media only screen and (max-width: 700px) {
   .main_container_of_languages {
+    box-shadow: inset 1px 1px 5px black;
     transform: scale(0.8);
   }
-}
-@keyframes circle_animaion {
-  0% {
-    transform: rotate(20deg);
-  }
-  30% {
-    transform: rotate(60deg);
-  }
-
-  50% {
-    transform: rotate(100deg);
-  }
-
-  80% {
-    transform: rotate(160deg);
-  }
-  100% {
-    transform: rotate(360deg);
+  .main_in_language {
+    display: none;
   }
 }

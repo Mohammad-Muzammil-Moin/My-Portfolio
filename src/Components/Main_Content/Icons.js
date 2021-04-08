@@ -18,7 +18,6 @@ function Icons() {
             data-inline="false"
           ></span>
         </h1>
-
         <span
           className="iconify"
           data-icon="logos:javascript"

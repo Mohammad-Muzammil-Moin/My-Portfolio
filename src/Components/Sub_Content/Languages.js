@@ -20,7 +20,7 @@ function Languages() {
         </div>
 
         <div className="center_circle transparent_circle">
-          <h1>Web Skills</h1>
+          <h1>Api Integration</h1>
         </div>
         <div className="center_circle Material-ui Material-UI">
           <span className="for_Material-UI">Material-UI</span>
