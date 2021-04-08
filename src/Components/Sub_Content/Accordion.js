@@ -10,9 +10,9 @@ import React, { useState } from "react";
 const useStyles = makeStyles((theme) =>
   createStyles({
     root: {
-      width: "100%",
-      // padding: "5px",
+      width: "90%",
     },
+
     height: {
       height: "78vh",
       borderRadius: "10px",
@@ -50,7 +50,11 @@ function More() {
         >
           <Intro className={classes.center} />
         </AccordionSummary>
-        <AccordionDetails>
+        <AccordionDetails
+          style={{
+            padding: "0px",
+          }}
+        >
           <Sub_Content />
         </AccordionDetails>
       </Accordion>

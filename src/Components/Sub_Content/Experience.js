@@ -5,7 +5,7 @@ import "./Education.css";
 function Experience() {
   return (
     <>
-      <div className="resume">
+      <div className="resume resum_for_small">
         <Education
           year_1="2020"
           year_2="2010"

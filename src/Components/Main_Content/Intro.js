@@ -29,7 +29,7 @@ function Intro() {
 }
 export function Contacts() {
   return (
-    <div className="intro_section">
+    <div className="icon_section">
       <div className="my_contacts">
         <a
           href="https://www.facebook.com/muzammilqureshi.moinali"

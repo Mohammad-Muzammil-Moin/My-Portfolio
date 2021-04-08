@@ -10,9 +10,9 @@ function Main_Content() {
     <>
       <div className="main">
         <div className="Intro">
-          <div>
-            <Intro />
-          </div>
+          {/* <div> */}
+          <Intro />
+          {/* </div> */}
         </div>
         <div className="resum_content ">
           <Sub_Content />

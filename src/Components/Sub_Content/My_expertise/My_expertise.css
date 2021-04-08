@@ -12,19 +12,21 @@
 }
 @media only screen and (max-width: 600px) {
   .about_Skill {
-    padding: 0px;
+    padding-left: 25px;
+    /* margin: 10px 5px; */
     display: block;
+    width: 100%;
   }
   .about_Skill h1 {
     color: gray;
+    font-size: 25px;
     font-style: italic;
   }
   .about_Skill p {
-    /* background: gray; */
     /* color: black; */
     border-radius: 5px;
-    padding: 10px 10px;
+    /* margin: 10px 10px; */
 
-    font-size: 20px;
+    font-size: 18px;
   }
 }

@@ -23,7 +23,6 @@
 
 .resum_content {
   width: 100%;
-  max-width: 900px;
   transition: border ease 10ms;
   overflow-y: scroll;
   border-radius: 30px 30px 30px 30px;
@@ -44,17 +43,20 @@
     overflow-y: scroll;
     background: linear-gradient(black, rgb(49, 48, 48), black);
     height: 100vh;
+    padding: 0px;
     border-radius: 0px;
   }
   .Accordion {
     display: block;
+    margin: 0px;
     margin-bottom: 0px;
   }
   .expandIcon {
     /* position: relative; */
     top: 220px;
-    border-radius: 50%;
-    background: linear-gradient(black, rgb(49, 48, 48), black);
+
+    border-radius: 5px;
+    background: linear-gradient(rgb(49, 48, 48), black, rgb(49, 48, 48));
   }
   /* .resum_content {
     display: none;
