@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.486192c4.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.9b13a2c5.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.9b13a2c5.chunk.js.map",
-    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.5e5deb8b.js",
-    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.5e5deb8b.js.map",
-    "static/js/2.34a30a21.chunk.js": "/My-Portfolio/static/js/2.34a30a21.chunk.js",
-    "static/js/2.34a30a21.chunk.js.map": "/My-Portfolio/static/js/2.34a30a21.chunk.js.map",
-    "static/js/3.50a567b3.chunk.js": "/My-Portfolio/static/js/3.50a567b3.chunk.js",
-    "static/js/3.50a567b3.chunk.js.map": "/My-Portfolio/static/js/3.50a567b3.chunk.js.map",
+    "main.css": "/My-Portfolio/static/css/main.ea813226.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.32df3f31.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.32df3f31.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.b09a5843.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.b09a5843.js.map",
+    "static/js/2.02d78671.chunk.js": "/My-Portfolio/static/js/2.02d78671.chunk.js",
+    "static/js/2.02d78671.chunk.js.map": "/My-Portfolio/static/js/2.02d78671.chunk.js.map",
+    "static/js/3.22ffb465.chunk.js": "/My-Portfolio/static/js/3.22ffb465.chunk.js",
+    "static/js/3.22ffb465.chunk.js.map": "/My-Portfolio/static/js/3.22ffb465.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "static/css/main.486192c4.chunk.css.map": "/My-Portfolio/static/css/main.486192c4.chunk.css.map",
-    "static/js/2.34a30a21.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.34a30a21.chunk.js.LICENSE.txt",
+    "static/css/main.ea813226.chunk.css.map": "/My-Portfolio/static/css/main.ea813226.chunk.css.map",
+    "static/js/2.02d78671.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.02d78671.chunk.js.LICENSE.txt",
     "static/media/My1.471e61fb.jpeg": "/My-Portfolio/static/media/My1.471e61fb.jpeg",
     "static/media/App.css": "/My-Portfolio/static/media/ron-whitaker-mVuKCYMGZBM-unsplash.51488451.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e5deb8b.js",
-    "static/js/2.34a30a21.chunk.js",
-    "static/css/main.486192c4.chunk.css",
-    "static/js/main.9b13a2c5.chunk.js"
+    "static/js/runtime-main.b09a5843.js",
+    "static/js/2.02d78671.chunk.js",
+    "static/css/main.ea813226.chunk.css",
+    "static/js/main.32df3f31.chunk.js"
   ]
 }
