@@ -7,6 +7,9 @@ function Icons() {
         <h1>
           <span
             className="iconify width_icon "
+            style={{
+              fontSize: "35px",
+            }}
             data-icon="logos:html-5"
             data-inline="false"
           ></span>
@@ -14,6 +17,9 @@ function Icons() {
         <h1>
           <span
             className="iconify width_icon"
+            style={{
+              fontSize: "35px",
+            }}
             data-icon="logos:css-3"
             data-inline="false"
           ></span>

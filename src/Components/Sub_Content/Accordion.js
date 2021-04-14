@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) =>
     background: {
       borderRadius: "10px",
       backgroundColor: "black",
-      boxShadow: "inset 1px  1px #03a9f4",
+      // boxShadow: "inset 1px  1px #03a9f4",
     },
   })
 );

@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.45955e4a.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.aa9c44d4.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.aa9c44d4.chunk.js.map",
-    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.5e5deb8b.js",
-    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.5e5deb8b.js.map",
-    "static/js/2.34a30a21.chunk.js": "/My-Portfolio/static/js/2.34a30a21.chunk.js",
-    "static/js/2.34a30a21.chunk.js.map": "/My-Portfolio/static/js/2.34a30a21.chunk.js.map",
-    "static/js/3.50a567b3.chunk.js": "/My-Portfolio/static/js/3.50a567b3.chunk.js",
-    "static/js/3.50a567b3.chunk.js.map": "/My-Portfolio/static/js/3.50a567b3.chunk.js.map",
+    "main.css": "/My-Portfolio/static/css/main.392b390f.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.3d1e8ae7.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.3d1e8ae7.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.3b041857.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.3b041857.js.map",
+    "static/js/2.4c497b76.chunk.js": "/My-Portfolio/static/js/2.4c497b76.chunk.js",
+    "static/js/2.4c497b76.chunk.js.map": "/My-Portfolio/static/js/2.4c497b76.chunk.js.map",
+    "static/js/3.a2727847.chunk.js": "/My-Portfolio/static/js/3.a2727847.chunk.js",
+    "static/js/3.a2727847.chunk.js.map": "/My-Portfolio/static/js/3.a2727847.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "static/css/main.45955e4a.chunk.css.map": "/My-Portfolio/static/css/main.45955e4a.chunk.css.map",
-    "static/js/2.34a30a21.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.34a30a21.chunk.js.LICENSE.txt",
+    "static/css/main.392b390f.chunk.css.map": "/My-Portfolio/static/css/main.392b390f.chunk.css.map",
+    "static/js/2.4c497b76.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.4c497b76.chunk.js.LICENSE.txt",
+    "static/media/Buyo.022d0f22.png": "/My-Portfolio/static/media/Buyo.022d0f22.png",
     "static/media/My1.471e61fb.jpeg": "/My-Portfolio/static/media/My1.471e61fb.jpeg",
-    "static/media/App.css": "/My-Portfolio/static/media/ron-whitaker-mVuKCYMGZBM-unsplash.51488451.jpg"
+    "static/media/clickshopping.a6ec6ea5.jpg": "/My-Portfolio/static/media/clickshopping.a6ec6ea5.jpg",
+    "static/media/App.css": "/My-Portfolio/static/media/ron-whitaker-mVuKCYMGZBM-unsplash.51488451.jpg",
+    "static/media/scrimba-clone.7c9f7bab.png": "/My-Portfolio/static/media/scrimba-clone.7c9f7bab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e5deb8b.js",
-    "static/js/2.34a30a21.chunk.js",
-    "static/css/main.45955e4a.chunk.css",
-    "static/js/main.aa9c44d4.chunk.js"
+    "static/js/runtime-main.3b041857.js",
+    "static/js/2.4c497b76.chunk.js",
+    "static/css/main.392b390f.chunk.css",
+    "static/js/main.3d1e8ae7.chunk.js"
   ]
 }

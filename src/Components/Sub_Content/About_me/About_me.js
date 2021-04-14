@@ -1,7 +1,8 @@
 import React from "react";
+import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
 import My_image from "../../Main_Content/My1.jpeg";
-function About_me() {
+function About_me(props) {
   return (
     <>
       <div className="top_sect">
@@ -24,6 +25,14 @@ function About_me() {
             <button>Contact</button>
           </div>
         </div>
+      </div>
+      <div class="wrap">
+        {props.setArrow && (
+          <ExpandMoreIcon
+            className="
+          expandIcon img_arrow animated bounce"
+          />
+        )}
       </div>
     </>
   );

@@ -16,7 +16,13 @@ function Intro() {
           color: "gray",
         }}
       >
-        <img src={My_image} alt="Person_image" width="190" height="200" />
+        <img
+          className="my-img"
+          src={My_image}
+          alt="Person_image"
+          width="190"
+          height="200"
+        />
         <div className="name_sec">
           <h1 className=" my_Name">Mohammad Muzammil</h1>
           <h1 className="hidden profession_name">

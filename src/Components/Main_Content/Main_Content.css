@@ -11,7 +11,8 @@
 }
 .skills_icon {
   width: 100%;
-  height: 140px;
+  padding: 0px 20px;
+  height: 127px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -19,20 +20,23 @@
 
 .iconify {
   font-size: 30px;
+  margin-bottom: 40px;
 }
 
 .resum_content {
   width: 100%;
-  transition: border ease 10ms;
+  border: 0px solid black;
+  transition: border ease 20ms;
   overflow-y: scroll;
+  overflow-x: hidden;
   border-radius: 30px 30px 30px 30px;
   z-index: 3;
   background: #000;
 }
 .resum_content:hover {
-  border: 1px solid rgb(29, 28, 28);
+  /* border: 1px solid rgb(29, 28, 28); */
   outline: none;
-  box-shadow: inset 1px 0px 0px #03a9f4;
+  box-shadow: inset 1px 2px 2px #03a9f4;
 }
 .Accordion {
   display: none;
@@ -49,6 +53,7 @@
   .Accordion {
     display: block;
     margin: 0px;
+
     margin-bottom: 0px;
   }
   .expandIcon {
