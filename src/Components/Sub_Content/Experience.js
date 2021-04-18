@@ -7,17 +7,51 @@ function Experience() {
     <>
       <div className="resume resum_for_small">
         <Education
-          year_1="2020"
-          year_2="2010"
-          para_1="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
-            aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in,
-            lobortis ante."
-          para_2="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
-            aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in,
-            lobortis ante."
-          heading_1="Frontend "
-          span="Development"
-          heading_2="Business "
+          year_1="2017"
+          year_2="2019"
+          para_1={
+            <>
+              <p>
+                I worked at
+                <b>
+                  <i> Ion Resources Pvt LTD </i>
+                </b>
+                as a marketing executive from March of 2017 to December of 2019
+              </p>
+            </>
+          }
+          para_2={
+            <div
+              style={{
+                padding: "10px",
+              }}
+            >
+              <li>Connect with customers using phone call </li>
+              <li>Respond to all inbound leads</li>
+              <li>Document all daily activities</li>
+              <li>
+                Work closely with the sales team to accelerate sales cycle
+                extend reach into target accounts
+              </li>
+              <li>Responsible for the generation of opportunities</li>
+              <li>
+                Keep data and information up to date; managing information on
+                all lead prospects opportunities
+              </li>
+            </div>
+          }
+          heading_1={
+            <>
+              <p>
+                Buiseness <span>Development</span>
+              </p>
+            </>
+          }
+          heading_2={
+            <>
+              <h5>Work Responsibilities - were to:</h5>
+            </>
+          }
         />
 
         <div className="height">

@@ -5,6 +5,9 @@
   align-items: center;
   flex-wrap: wrap;
 }
+.skill_description h1 {
+  margin-bottom: 20px;
+}
 .about_Skill p {
   color: gray;
   width: 100%;

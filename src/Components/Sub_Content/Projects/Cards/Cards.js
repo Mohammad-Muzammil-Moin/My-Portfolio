@@ -5,22 +5,24 @@ import { makeStyles, createStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles((theme) =>
   createStyles({
     root: {
-      display: "flex",
-      justifyContent: "center",
-      alignItems: "center",
-      flexWrap: "wrap",
-      border: "1px solid gray",
-      "& > *": {},
+      border: "1px solid #03a9f4",
+      "& > *": {
+        color: "gray",
+      },
       margin: theme.spacing(0.5),
     },
   })
 );
 function Cards({ data }) {
+  let styles = {
+    backgroundImage: `url(${data.image})`,
+    border: "1px solid #03a9f4",
+  };
   const classes = useStyles();
   console.log(data.language);
   return (
-    <>
-      <div className="cards_container">
+    <div className={classes.bg}>
+      <div className="cards_container" style={styles}>
         <a href={data.link}>
           <div className="cards">
             <img src={data.image} alt="woocomerce" />
@@ -53,7 +55,7 @@ function Cards({ data }) {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 

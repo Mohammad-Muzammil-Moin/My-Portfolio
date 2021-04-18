@@ -8,22 +8,58 @@ function Resums() {
     <div className="container">
       <h2 className="top_heading">
         My <span>Resume!</span>
-        <h2 className="heading_Of_Skills">Skills</h2>
+        <h2 className="heading_Of_Skills">Skills & Experiences </h2>
       </h2>
       <Experience />
       <div className="resume">
         <Education
-          year_1="2020"
-          year_2="2010"
-          para_1="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
-            aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in,
-            lobortis ante."
-          para_2="Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor
-            aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in,
-            lobortis ante."
-          heading_1="Frontend "
-          span="Development"
-          heading_2="Business "
+          // year_1="2020"
+          year_1="2010"
+          para_2={
+            <>
+              <p>
+                <li>
+                  Supporting development, maintaining, and updating web portals
+                  as well as websites
+                </li>
+                <li>writing codes for web based solutions </li>
+                <li>
+                  resolving complaints of customers and responding to their
+                  suggestions to improve the products
+                </li>
+                <li>writing codes for web-based solutions.</li>
+                <li>
+                  selecting techniques and methods for creating solutions using
+                  different tools of programming languages
+                </li>
+              </p>
+            </>
+          }
+          para_1={
+            <>
+              <p>
+                I worked at
+                <b>
+                  <i> Mechotics </i>
+                </b>
+                as a web and buisness developer from March of 2020 to october of
+                2020 and now I am doing freelancing work as a React js developer
+                on different websites like Fiver, Freelancer, and Upwork.
+              </p>
+            </>
+          }
+          heading_1={
+            <>
+              <h2>
+                Frontend <span>Development</span>
+              </h2>
+            </>
+          }
+          heading_2={
+            <>
+              <h5>My Responsibilities</h5>
+            </>
+          }
         />
         <div className="height height-range">
           <SkillsChart

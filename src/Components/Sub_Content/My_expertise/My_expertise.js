@@ -20,12 +20,13 @@ function My_expertise() {
             Web <span>Development</span>
           </h1>
           <p>
-            Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio
-            tortor bibendum massa, sit amet ultricies ex lectus scelerisque
-            nibh. Ut non sodales.
+            I am a front-end react js developer I have approximately two years
+            of experience in web development and my performance is satisfactory
+            while rendering all the duties of frontend development which you can
+            see below for my skills.
           </p>
         </div>
-        <div>
+        <div className="skill_description">
           <PermPhoneMsgIcon
             style={{
               fontSize: "40px",
@@ -36,12 +37,13 @@ function My_expertise() {
             }}
           />
           <h1>
-            Buisness <span>Development</span>
+            Telemarketing <span>Sales</span>
           </h1>
           <p>
-            Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio
-            tortor bibendum massa, sit amet ultricies ex lectus scelerisque
-            nibh. Ut non sodales.
+            I worked in Ion Resources Pvt LTD as a marketing executive and I
+            demonstrated superb marketing knowledge and expertise. I have also
+            made many efforts for training the junior marketing staff and
+            keeping pace with the latest marketing needs.
           </p>
         </div>
       </div>
