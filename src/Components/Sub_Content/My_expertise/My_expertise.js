@@ -40,10 +40,10 @@ function My_expertise() {
             Telemarketing <span>Sales</span>
           </h1>
           <p>
-            I worked in Ion Resources Pvt LTD as a marketing executive and I
-            demonstrated superb marketing knowledge and expertise. I have also
-            made many efforts for training the junior marketing staff and
-            keeping pace with the latest marketing needs.
+            I worked in many telemarketing company and I demonstrated superb
+            marketing knowledge and expertise. I have also made many efforts for
+            training the junior marketing staff and keeping pace with the latest
+            marketing needs.
           </p>
         </div>
       </div>
