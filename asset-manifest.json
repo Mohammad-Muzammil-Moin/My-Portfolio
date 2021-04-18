@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.753f4601.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.a8930b23.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.a8930b23.chunk.js.map",
+    "main.css": "/My-Portfolio/static/css/main.4364fa12.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.922f9602.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.922f9602.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.3b041857.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.3b041857.js.map",
     "static/js/2.4c497b76.chunk.js": "/My-Portfolio/static/js/2.4c497b76.chunk.js",
@@ -10,10 +10,14 @@
     "static/js/3.a2727847.chunk.js": "/My-Portfolio/static/js/3.a2727847.chunk.js",
     "static/js/3.a2727847.chunk.js.map": "/My-Portfolio/static/js/3.a2727847.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "static/css/main.753f4601.chunk.css.map": "/My-Portfolio/static/css/main.753f4601.chunk.css.map",
+    "static/css/main.4364fa12.chunk.css.map": "/My-Portfolio/static/css/main.4364fa12.chunk.css.map",
     "static/js/2.4c497b76.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.4c497b76.chunk.js.LICENSE.txt",
+    "static/media/Aimtech.cd02c222.png": "/My-Portfolio/static/media/Aimtech.cd02c222.png",
     "static/media/Buyo.022d0f22.png": "/My-Portfolio/static/media/Buyo.022d0f22.png",
+    "static/media/Calculator.b062b291.png": "/My-Portfolio/static/media/Calculator.b062b291.png",
+    "static/media/Happy New Year.9a2ec13c.png": "/My-Portfolio/static/media/Happy New Year.9a2ec13c.png",
     "static/media/My1.471e61fb.jpeg": "/My-Portfolio/static/media/My1.471e61fb.jpeg",
+    "static/media/ToDoList.d86b4fd5.png": "/My-Portfolio/static/media/ToDoList.d86b4fd5.png",
     "static/media/clickshopping.a6ec6ea5.jpg": "/My-Portfolio/static/media/clickshopping.a6ec6ea5.jpg",
     "static/media/App.css": "/My-Portfolio/static/media/ron-whitaker-mVuKCYMGZBM-unsplash.51488451.jpg",
     "static/media/scrimba-clone.7c9f7bab.png": "/My-Portfolio/static/media/scrimba-clone.7c9f7bab.png"
@@ -21,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.3b041857.js",
     "static/js/2.4c497b76.chunk.js",
-    "static/css/main.753f4601.chunk.css",
-    "static/js/main.a8930b23.chunk.js"
+    "static/css/main.4364fa12.chunk.css",
+    "static/js/main.922f9602.chunk.js"
   ]
 }
