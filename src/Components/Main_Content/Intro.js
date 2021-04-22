@@ -1,9 +1,8 @@
 import React, { useState } from "react";
-
+import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import "./Intro.css";
 import EmailIcon from "@material-ui/icons/Email";
-import YouTubeIcon from "@material-ui/icons/YouTube";
-import TwitterIcon from "@material-ui/icons/Twitter";
+
 import FacebookIcon from "@material-ui/icons/Facebook";
 import My_image from "./My1.jpeg";
 import "../Sub_Content/Languages.css";
@@ -28,7 +27,7 @@ function Intro() {
           <h1 className="hidden profession_name">
             Web <span>Developer</span>
           </h1>
-          <Contacts className="for_medium" />
+          {/* <Contacts className="for_medium" /> */}
         </div>
         <div className="main_in_language">
           <div className="Languages_container language_in_itnro">
@@ -81,11 +80,10 @@ export function Contacts() {
         >
           <FacebookIcon className="icon" />
         </a>
-        <TwitterIcon className="icon" />
-        <EmailIcon className="icon" />
-        <YouTubeIcon className="icon" />
+        <a href="https://www.linkedin.com/in/mohammad-muzammil-759b9b208/">
+          <LinkedInIcon className="icon" />
+        </a>
       </div>
-      {/*  */}
     </div>
   );
 }

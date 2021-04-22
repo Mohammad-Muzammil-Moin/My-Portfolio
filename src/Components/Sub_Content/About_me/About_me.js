@@ -1,5 +1,6 @@
 import React from "react";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import My_image from "../../Main_Content/My1.jpeg";
 function About_me(props) {
@@ -8,22 +9,23 @@ function About_me(props) {
       <div className="top_sect">
         <img src={My_image} alt="Person_image" className="image" />
         <div className="right_of_top">
-          <h4>
-            WEb <span>Developer</span>
-          </h4>
           <h1>
-            <span>Mohammad Muzammil</span>
+            WEb <span>Developer</span>
           </h1>
+          <h2>
+            <span>Mohammad Muzammil</span>
+          </h2>
           <p>
-            I am a Front-End Web Developer. I am passionate about developing
-            responsive user interfaces. I have skills that are enough to create
-            a new high-quality website or improve existing websites for
-            individuals and organizations, using the latest techniques and
-            trends.
+            I am a Front-End Web Developer. I am passionate about develope
+            responsive user interfaces and create a new high-quality website or
+            improve existing websites using the latest techniques and trends.
           </p>
-          <div>
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/mohammad-muzammil-759b9b208/"
+          >
             <button>Contact</button>
-          </div>
+          </a>
         </div>
       </div>
       <div class="wrap">

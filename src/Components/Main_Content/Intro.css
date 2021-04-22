@@ -18,8 +18,8 @@
   border-radius: 50%;
 }
 .icon {
-  text-decoration: none;
-  color: #03a9f4;
+  color: gray;
+  border-bottom: 2px solid #03a9f4;
 
   /* margin-top: 150px; */
 }
@@ -89,11 +89,8 @@
 }
 .right_of_top button:focus {
   outline: none;
+  color: #03a9f4;
 }
-.icon_section {
-  display: none;
-}
-
 .wrap {
   height: 100%;
   width: 100%;

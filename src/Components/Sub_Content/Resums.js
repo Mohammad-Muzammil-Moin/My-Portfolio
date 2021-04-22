@@ -27,7 +27,7 @@ function Resums() {
                   resolving complaints of customers and responding to their
                   suggestions to improve the products
                 </li>
-                <li>writing codes for web-based solutions.</li>
+                {/* <li>writing codes for web-based solutions.</li> */}
                 <li>
                   selecting techniques and methods for creating solutions using
                   different tools of programming languages
@@ -38,13 +38,10 @@ function Resums() {
           para_1={
             <>
               <p>
-                I worked at
-                <b>
-                  <i> Mechotics </i>
-                </b>
-                as a web and buisness developer from March of 2020 to october of
-                2020 and now I am doing freelancing work as a React js developer
-                on different websites like Fiver, Freelancer, and Upwork.
+                Academic credentials are reinforced by programming experience
+                gained during internship with <i> Mechotics </i> Company and now
+                I am doing freelancing work on different websites like Fiver,
+                Freelancer, and Upwork.
               </p>
             </>
           }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.4364fa12.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.9015e72e.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.9015e72e.chunk.js.map",
-    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.3b041857.js",
-    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.3b041857.js.map",
-    "static/js/2.4c497b76.chunk.js": "/My-Portfolio/static/js/2.4c497b76.chunk.js",
-    "static/js/2.4c497b76.chunk.js.map": "/My-Portfolio/static/js/2.4c497b76.chunk.js.map",
-    "static/js/3.a2727847.chunk.js": "/My-Portfolio/static/js/3.a2727847.chunk.js",
-    "static/js/3.a2727847.chunk.js.map": "/My-Portfolio/static/js/3.a2727847.chunk.js.map",
+    "main.css": "/My-Portfolio/static/css/main.0d091a90.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.4ce49c54.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.4ce49c54.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.8013963b.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.8013963b.js.map",
+    "static/js/2.1cc1fe84.chunk.js": "/My-Portfolio/static/js/2.1cc1fe84.chunk.js",
+    "static/js/2.1cc1fe84.chunk.js.map": "/My-Portfolio/static/js/2.1cc1fe84.chunk.js.map",
+    "static/js/3.998c9a87.chunk.js": "/My-Portfolio/static/js/3.998c9a87.chunk.js",
+    "static/js/3.998c9a87.chunk.js.map": "/My-Portfolio/static/js/3.998c9a87.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "static/css/main.4364fa12.chunk.css.map": "/My-Portfolio/static/css/main.4364fa12.chunk.css.map",
-    "static/js/2.4c497b76.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.4c497b76.chunk.js.LICENSE.txt",
+    "static/css/main.0d091a90.chunk.css.map": "/My-Portfolio/static/css/main.0d091a90.chunk.css.map",
+    "static/js/2.1cc1fe84.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.1cc1fe84.chunk.js.LICENSE.txt",
     "static/media/Aimtech.cd02c222.png": "/My-Portfolio/static/media/Aimtech.cd02c222.png",
     "static/media/Buyo.022d0f22.png": "/My-Portfolio/static/media/Buyo.022d0f22.png",
     "static/media/Calculator.b062b291.png": "/My-Portfolio/static/media/Calculator.b062b291.png",
@@ -23,9 +23,9 @@
     "static/media/scrimba-clone.7c9f7bab.png": "/My-Portfolio/static/media/scrimba-clone.7c9f7bab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b041857.js",
-    "static/js/2.4c497b76.chunk.js",
-    "static/css/main.4364fa12.chunk.css",
-    "static/js/main.9015e72e.chunk.js"
+    "static/js/runtime-main.8013963b.js",
+    "static/js/2.1cc1fe84.chunk.js",
+    "static/css/main.0d091a90.chunk.css",
+    "static/js/main.4ce49c54.chunk.js"
   ]
 }

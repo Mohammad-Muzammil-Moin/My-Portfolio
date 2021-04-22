@@ -1,6 +1,6 @@
 import Resums from "./Resums";
 import React, { useState } from "react";
-
+import Footer from "./Footer";
 import My_expertise from "./My_expertise/My_expertise";
 import About_me from "./About_me/About_me";
 import Languages from "./Languages";
@@ -20,6 +20,7 @@ function Sub_Content() {
         <h1 className="heading_Of_Skills">Web Skills</h1>
         <Languages />
         <Projects />
+        <Footer />
       </div>
     </>
   );

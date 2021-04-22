@@ -3,7 +3,6 @@ import React from "react";
 import "./Main_Content.css";
 import More from "../Sub_Content/Accordion";
 import Sub_Content from "../Sub_Content/Sub_Content";
-import { Hidden } from "@material-ui/core";
 import Icons from "./Icons";
 function Main_Content() {
   return (

@@ -42,9 +42,9 @@ function Experience() {
           }
           heading_1={
             <>
-              <p>
-                Buiseness <span>Development</span>
-              </p>
+              <h2>
+                Telemarketing <span>Sales</span>
+              </h2>
             </>
           }
           heading_2={
