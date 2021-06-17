@@ -19,7 +19,6 @@ function Cards({ data }) {
     border: "1px solid #03a9f4",
   };
   const classes = useStyles();
-  console.log(data.language);
   return (
     <div className={classes.bg}>
       <div className="cards_container" style={styles}>
