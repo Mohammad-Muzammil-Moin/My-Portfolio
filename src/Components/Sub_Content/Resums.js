@@ -14,7 +14,7 @@ function Resums() {
       <div className="resume">
         <Education
           // year_1="2020"
-          year_1="2010"
+          year_1="2020"
           para_2={
             <>
               <p>
